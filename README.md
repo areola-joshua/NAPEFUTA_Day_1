@@ -1,5 +1,5 @@
 # NAPEFUTA
-- You can download the files directly from here by clicking on code > download zip
+- You can `download the files directly from here by clicking on code > download zip`
 - This repository contains the first class, which is Python programming.
 - Run this code on Jupyter, Vscode, Pycharm, or IDEs that support .ipynb files
 - Star my work, as I would still provide more materials, including my assignment
@@ -9,7 +9,7 @@
 - Assignment submission (solved above  50%) is the certification prerequisite.
 
 - A new zip file has been added which includes several plots.
-- These plots spans across Geoscience courses:
+- These plots span across Geoscience courses:
       `Applied Geophysics`
       `Geology`
       `Remote sensing and GIS`
