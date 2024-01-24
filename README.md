@@ -7,7 +7,6 @@
 - Submit the assignment to this email address masterjoshua783@gmail.com
 - write your name on the first line of code.
 - Assignment submission (solved above  50%) is the certification prerequisite.
-
 - A new zip file has been added which includes several plots.
 - These plots span across Geoscience courses:
       `Applied Geophysics`
